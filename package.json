@@ -1,21 +1,21 @@
 {
-  "name": "generator-scrat",
-  "version": "0.2.4",
-  "description": "Scaffold out a scrat project",
+  "name": "generator-gintong",
+  "version": "0.0.1",
+  "description": "Scaffold out a gintong project",
   "repository": {
     "type": "git",
-    "url": "https://github.com/scrat-team/generator-scrat.git"
+    "url": "https://github.com/gintong-team/generator-gintong.git"
   },
   "bugs": {
-    "url": "https://github.com/scrat-team/generator-scrat/issues"
+    "url": "https://github.com/gintong-team/generator-gintong/issues"
   },
   "main": "app/index.js",
   "keywords": [
-    "scrat",
+    "gintong",
     "scaffold",
     "generator"
   ],
-  "author": "Hinc <hincubus@gmail.com>",
+  "author": "liuhuixiao <liuhuixiao@gintong.com>",
   "license": "MIT",
   "dependencies": {
     "yeoman-generator": "~0.17.0",

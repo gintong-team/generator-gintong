@@ -51,7 +51,7 @@ proto = Generator.prototype;
 
 proto._getTemplate = function (callback) {
     var cacheTemplate = path.resolve(tmpPath, this.type),
-        archive = 'https://codeload.github.com/gintong-team/gintong-template-' +
+        archive = 'https://codeload.github.com/scrat-team/scrat-template-' +
             this.type + '/tar.gz/' + (this.tag || 'master');
     callback = callback || function () {};
 
